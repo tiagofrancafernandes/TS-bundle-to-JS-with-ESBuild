@@ -1,0 +1,6 @@
+*-ignore*
+*.ignore*
+*ignore-*
+*.ignore-*
+*.ignore*
+node_modules
